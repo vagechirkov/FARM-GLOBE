@@ -14,6 +14,9 @@ FARM-GLOBE is ideal for researchers and developers who need to create large and 
 
 FARM-GLOBE may not be the best choice for those looking to create simple online behavioral experiments, as it requires some basic knowledge of web development to implement.
 
+### 📜Documentation
+You can find the documentation for FARM-GLOBE  in the [wiki](https://github.com/vagechirkov/FARM-GLOBE/wiki) section of this repository.
+
 ### 🏗️ Development roadmap
 
 * Create a basic implementation of FARM-GLOBE
